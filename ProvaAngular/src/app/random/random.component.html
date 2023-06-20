@@ -1,1 +1,8 @@
-<p>random works!</p>
+<div class="card col position-absolute top-50 start-50 translate-middle text-center text-dark p-3 border-none border-0">
+  <div class="card-body">
+    <div class="row">
+      <img *ngIf="randomComputer" [src]="randomComputer.image" [alt]="randomComputer.name"
+        style="width: auto; height: auto;">
+    </div>
+  </div>
+</div>

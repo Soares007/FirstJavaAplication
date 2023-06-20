@@ -14,7 +14,15 @@
       "description": "processor 13ª geração Intel® Core™ i7-13700 (16-core, cache de 30MB, até 5.2GHz)  laptop Windows 11 Home, Português (A Dell Technologies recomenda o Windows 11 Pro para empresas)  videocard NVIDIA® GeForce® RTX™ 3060, 12GB GDDR6  memory Memória de 16GB DDR5 (1x16GB) 4800MHz; Expansível até 64GB 5600MHz (2 slots UDIMM)  harddrive SSD de 512GB PCIe NVMe M.2  fallbackcolor Chassi com 750W PSU, CPU com sistema Air Cooler e painel sólido   Portas e slots",
       "price": 12077,
       "date": "2023-06-07",
-      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-intel/media-gallery/dark-side-of-the-moon-bk-clear-cryo-tech/desktop-alienware-aurora-r15-black-cryo-clear-panel-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=168&qlt=100,1&resMode=sharp2&size=168,402&chrss=full"
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/alienware-desktops/alienware-aurora-r15-amd/media-gallery/desktop-alienware-aurora-r15-black-cryo-clear-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=325&qlt=100,1&resMode=sharp2&size=325,402&chrss=full"
+    },
+    {
+      "id": 3,
+      "name": "Legion Slim 7 ",
+      "description": "Jogue com processadores móveis AMD Advantage™ Ryzen™ série 6000 Desfrute de jogos em um notebook fino e leve com a placa de vídeo AMD Radeon™ RX 6000S Expanda os limites do desempenho com DDR5 de até 16 GB de RAM Veja a vantagem tática em uma tela WXQGA de 16″ com taxa de atualização de 165 Hz A tecnologia de resfriamento Coldfront 4.0 de próxima geração otimiza a discrição",
+      "price": 14039.99,
+      "date": "2023-06-06",
+      "image": "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-l14-gen-2-intel-gallery.png?context=bWFzdGVyfHJvb3R8NDEwODkyfGltYWdlL3BuZ3xoNmUvaDlkLzE0MTgxMzM1NzYwOTI2LnBuZ3w2NTE4ZDNhZTE2MDAzODg4OGU2ZjQ4ZDAyYTdhMjZmZmIxMmFhOTdiOWZmM2Q4MjVmNjkzODQxNWZmZjU5ZmQy"
     }
   ]
 }
