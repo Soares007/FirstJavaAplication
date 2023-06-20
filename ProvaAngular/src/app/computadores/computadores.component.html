@@ -1,1 +1,22 @@
-<p>computadores works!</p>
+<table class="table table-striped mt-2">
+  <thead>
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Nome</th>
+      <th scope="col">Descrição</th>
+      <th scope="col">Preço</th>
+      <th scope="col">Imagem</th>
+      <th scope="col">Data de Fabricação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let dados of computer">
+      <th scope="row">{{dados.id}}</th>
+      <td>{{dados.name}}</td>
+      <td>{{dados.description}}</td>
+      <td>{{dados.price | currency:'BRL':'symbol':'1.2-2' }}</td>
+      <td><img src='{{dados.image}}' class="card-img-top" alt='{{dados.name}}' style="width: 100px; height: 100px;"></td>
+      <td class="break">{{dados.date | date:'dd/MM/yyyy' }}</td>
+    </tr>
+  </tbody>
+</table>

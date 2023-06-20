@@ -12,4 +12,7 @@ export class ComputersService {
   save(computer: Computer): Observable<Computer> {
     return this.http.post<Computer>(this.url, computer);
   }
+  getComputers(): Observable<Computer[]> {
+    return this.http.get<Computer[]>(this.url);
+  }
 }
