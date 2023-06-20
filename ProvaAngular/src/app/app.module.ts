@@ -5,11 +5,19 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { FormsModule, ReactiveFormsModule, Validators } from '@angular/forms';
-import { HttpClientModule } from '@angular/common/http'
+import { HttpClientModule } from '@angular/common/http';
+import { HeaderComponent } from './header/header.component';
+import { CadastroComponent } from './cadastro/cadastro.component';
+import { ComputadoresComponent } from './computadores/computadores.component';
+import { RandomComponent } from './random/random.component'
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HeaderComponent,
+    CadastroComponent,
+    ComputadoresComponent,
+    RandomComponent
   ],
   imports: [
     BrowserModule,
